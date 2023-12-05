@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413218167372",
+    "project_id": "jaryq-mobile",
+    "storage_bucket": "jaryq-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413218167372:android:5a4f739fa0eed43d59f2e9",
+        "android_client_info": {
+          "package_name": "com.example.ruhani_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe0CvJQIHIUTexCxc1KWLwjGh6S9S8tT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
